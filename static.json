@@ -20,6 +20,6 @@
   "routes": {
     "/login/": "/login.txt",
     "/sample/": "/sample.txt",
-    "/promise/": "/promise.txt"
+    "/promise/": "/promise.html"
   }
 }
