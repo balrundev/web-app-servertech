@@ -21,6 +21,6 @@
     "/login/": "/login.txt",
     "/sample/": "/sample.txt",
     "/promise/": "/promise.txt",
-    "/fetch/": "fetch.html"
+    "/fetch/": "/fetch.html"
   }
 }
